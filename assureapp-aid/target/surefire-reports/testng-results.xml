@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="exampleone" duration-ms="109634" started-at="2017-11-29T22:55:32Z" finished-at="2017-11-29T22:57:22Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="109634" started-at="2017-11-29T22:55:32Z" finished-at="2017-11-29T22:57:22Z">
+      <class name="testSuites.Regression">
+        <test-method status="PASS" signature="setUpdevice()[pri:0, instance:testSuites.Regression@457e2f02]" name="setUpdevice" is-config="true" duration-ms="20684" started-at="2017-11-30T09:55:32Z" finished-at="2017-11-30T09:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpdevice -->
+        <test-method status="PASS" signature="loginToApp()[pri:1, instance:testSuites.Regression@457e2f02]" name="loginToApp" duration-ms="28125" started-at="2017-11-30T09:55:53Z" finished-at="2017-11-30T09:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="setUpdevice()[pri:0, instance:testSuites.Regression@457e2f02]" name="setUpdevice" is-config="true" duration-ms="4966" started-at="2017-11-30T09:56:21Z" finished-at="2017-11-30T09:56:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpdevice -->
+        <test-method status="PASS" signature="changeDailyChallengeActivity()[pri:2, instance:testSuites.Regression@457e2f02]" name="changeDailyChallengeActivity" duration-ms="55849" started-at="2017-11-30T09:56:26Z" finished-at="2017-11-30T09:57:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeDailyChallengeActivity -->
+      </class> <!-- testSuites.Regression -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- exampleone -->
+</testng-results>

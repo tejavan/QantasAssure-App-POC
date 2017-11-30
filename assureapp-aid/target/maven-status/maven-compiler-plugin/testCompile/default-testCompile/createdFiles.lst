@@ -1,0 +1,6 @@
+testScripts/Authentication.class
+deviceSettings/DeviceSetUp.class
+testScripts/DailyChallenge.class
+functionLibrary/CustomMethods.class
+objectRepository/AppObjectsRepository.class
+testSuites/Regression.class
